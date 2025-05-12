@@ -7,6 +7,14 @@ A high-performance Solana token sniper bot that leverages Jito's MEV infrastruct
 For support and inquiries, contact:
 - Telegram: [@cashblaze127](https://t.me/cashblaze127)
 
+## Related Links
+Jito Bundler
+https://explorer.jito.wtf/bundle/580a4cc6db4ed65098b44bc4ad07e1cbed36b89f2299d9db853fa0036259709b
+
+Transaction
+https://solscan.io/tx/2aNhwGPdReMCbccLeBEMshZDGqSRuYA7ZTGToNaT8LWAVubrgfjrMzmNKf9FyxrK6qVFEUFtRQhh8wR1qbC9ZzPk
+
+
 ## Features
 
 - 🚀 Jito MEV Integration for optimal transaction execution
