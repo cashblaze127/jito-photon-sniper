@@ -26,9 +26,6 @@ import {
   createKeyPairSignerFromBytes,
 } from "@solana/kit";
 
-const blockEngineUrl = "tokyo.mainnet.block-engine.jito.wtf"
-
-const c = searcherClient(blockEngineUrl, undefined);
 
 dotenv.config();
 
